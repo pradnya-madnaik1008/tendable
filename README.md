@@ -1,3 +1,6 @@
+## Screenshot
+![Screenshot](https://github.com/user-attachments/assets/485db16c-0856-402a-ac0b-9bc4980e9fac)
+
 ## Purpose
 
 This is a Ruby-based survey tool where users are prompted to answer a series of Yes/No questions. After each run, a rating is calculated based on the percentage of "Yes" answers, and an average rating is kept across all runs.
